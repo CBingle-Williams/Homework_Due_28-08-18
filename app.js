@@ -18,7 +18,7 @@ for (let i = 0; i < 177; i++) {
 //--------------------------------------------------------------------------------------
 
 // Second Part find second largest num in 2D array, and print out number of even numbers.
-let arr = [
+const arr = [
     [2,3,4],
     [4,32,44],
     [40,10,23]
@@ -47,7 +47,7 @@ console.log('Number of even numbers: ' + even);
 //--------------------------------------------------------------------------------------
 
 // Do While and For-In Array
-let simpleArr = [1,2,3,4,5,6,7];
+const simpleArr = [1,2,3,4,5,6,7];
 
 let i = 0;
 do  {
